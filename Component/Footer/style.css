@@ -1,0 +1,34 @@
+.footerColor{
+    color:  rgba(255, 255, 255, 1) !important;
+    background-color: rgb(1, 30, 65) !important;
+}
+.footerColor .copyRightLine {
+    color:  rgba(255, 255, 255, 1);
+    text-align: center;
+    border-top:  1px solid rgba(255, 255, 255, 1);
+    padding: 10px 0px 10px 0px ;
+    margin: 10px 0px 10px 0px ;
+}
+.footerColor .footerText {
+    color: rgba(255, 255, 255, 1);
+    padding: 15px 15px 15px 0px;
+    text-align: justify;
+}
+.footerColor .links {
+    text-align: center;
+    position: relative;
+}
+.footerColor .links .verticalCenter {
+    display: flex;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateY(-50%);
+    width: 100%;
+
+  }
+.footerColor .links p {
+    padding: 10px;
+
+}

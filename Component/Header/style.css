@@ -1,0 +1,55 @@
+.headerBAckGroundcolor {
+    background-color: rgba(255, 255, 255, 1) !important;
+}
+:where(.css-dev-only-do-not-override-146qaw5).ant-layout .ant-layout-header {
+    position: sticky !important;
+    top: 0 !important;
+}
+
+/* rgba(55, 73, 239,1) */
+
+.menu {
+    display: flex;
+    margin: 0px 0px 0px auto;
+    width: fit-content;
+}
+
+.menu .homeButton {
+    color: rgba(55, 73, 239, 1);
+    border: none;
+    box-shadow: none;
+    font-weight: 700;
+}
+
+.menu .homeButton:hover {
+    color: rgba(55, 73, 239, 1);
+    border: none;
+    box-shadow: none;
+    font-weight: 700;
+}
+
+.menu .loginButton {
+    border: 1px solid rgba(55, 73, 239, 1);
+    color: rgba(55, 73, 239, 1);
+}
+
+.menu .loginButton:hover {
+    border: 1px solid rgba(55, 73, 239, 1);
+    color: rgba(55, 73, 239, 1);
+}
+
+.menu .demoButton {
+    border: 1px solid rgba(55, 73, 239, 1);
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(55, 73, 239, 1);
+}
+
+.menu .demoButton:hover {
+    border: 1px solid rgba(55, 73, 239, 1);
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(55, 73, 239, 1);
+}
+
+.menu button {
+    margin: 15px;
+}

@@ -1,0 +1,23 @@
+.contactUs{
+    padding: 40px;
+    margin: 20px auto;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 1);
+}
+.contactUsHEading{
+    text-align: center;
+    font-size: 26px;
+}
+.label{
+    font-weight: 700;
+}
+.formBtn{
+    width: 100%;
+    background-color: rgba(55, 73, 239, 1);
+}
+.contactUsImg{
+    padding: 20px;
+    width: 100%;
+    border-radius: 30px;
+    height: 100%;
+}
